@@ -1,3 +1,5 @@
+#  [日本語](termsofservice.md)
+
 # rasutoma's Bot Development Server Terms of Service
 
 Thank you for joining this server.  
