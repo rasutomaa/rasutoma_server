@@ -1,4 +1,4 @@
-[English](en_termsofservice.md) 
+# [English](en_termsofservice.md) 
 
 # ラストマのbot開発サーバー 利用規約
 
