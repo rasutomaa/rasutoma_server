@@ -1,3 +1,5 @@
+[English](en_termsofservice.md) 
+
 # ラストマのbot開発サーバー 利用規約
 
 当サーバーにご参加いただきありがとうございます。
